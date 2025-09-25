@@ -1,6 +1,6 @@
 # The Conversational CMDB
 
-#Introduction
+# Introduction
 The ServiceNow AI Platform, formerly known as the Now Platform, is more than just a System of Record for IT organizations but one challenge persistently remains: creating and maintaining a high quality Configuration Management Database (CMDB). The enterprise IT landscape is experiencing an unprecedented transformation, driven by rapid cloud (private and public) adoption, the proliferation of IoT devices, and most recently the exponential growth of agentic AI. At first glance, ServiceNow provides their customers with a standard toolbox of capabilities to achieve their CMDB aspirations and although the issues in each organization will vary slightly, success typically hangs in the balance when it comes to the coordination and consensus achieved among the various stakeholders within the IT organization (including Cybersecurity Teams as well). In full transparency, with the rebranding of the Now Platform, where most ServiceNow customers are in their overall consumption journey and where ServiceNow is going within the ServiceNow AI Platform visionary context has simply never been wider - exaserbating the organizational challenges related to ServiceNow as a strategic asset.
 
 Most organizational leaders just simply want the CMDB to be "done", not realizing that it is NOT a one-time project but rather a product-related issue that needs to mirror the organizational change taking place.
