@@ -19,3 +19,6 @@ Leveraging the Google Cloud Platform's BigQuery enterprise data warehouse capabi
 
 Note: For customers that have a high quality CMDB, the Conversational CMDB could simply be a way to enhance their Continuous Improvement efforts and overall Operational Excellence goals.
 
+# Data Sovereignty
+It is critical to support ServiceNow customer's data sovereignty requirements, meaning that the primary functions of this AI-enabled solution will be Google-centric, the solution may also need to be ported to other major cloud providers, like AWS and Azure, or even within a private cloud scenario. The good news is that most enterprise data warehouse solutions have comparable capabilities along with access to deploy any supported or chosen Knowledge Graph Database. The agentic AI options that follow and emerge will need to be addressed from a data sovereignty perspective but may not be cloud provider agnostic.
+
