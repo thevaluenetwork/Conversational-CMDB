@@ -21,6 +21,13 @@ Leveraging the Google Cloud Platform's BigQuery enterprise data warehouse capabi
 
 Note: For customers that have a high quality CMDB, the Conversational CMDB could simply be a way to enhance their Continuous Improvement efforts and overall Operational Excellence goals. The overall design could be modified to leverage an existing enterprise data warehouse, including the subsequent and appropriate knowledge graph component.
 
+# Use Cases
+- Augment future ServiceNow engagements by representing the platform’s current state within a knowledge graph.
+- “Talking to the data" through natural language queries, unlocking real-time insights from historical configurations on the ServiceNow Al Platform.
+- Assist Al agents (trained on ServiceNow/JavaScript) in developing features, using KG context for agile user stories without disrupting (breaking) existing configurations and workflows.
+- Rapidly and holistically improve the Configuration Management Database (CMDB).
+- Provide CMDB stakeholders a graph-based tool to coordinate Common Service Data Model (CSDM) adoption and daily activities, visualizing relationships across domains.
+
 # Data Sovereignty
 It is critical to support ServiceNow customer's data sovereignty requirements, meaning that the primary functions of this AI-enabled solution will be deployed within the Google Cloud Platform (GCP), however; the solution may also need to be ported to other major cloud providers, like AWS and Azure, or even within a private cloud scenario to be in compliance with a customer's requirement to keep the data within their approved cloud environment and boundary. The good news is that most enterprise data warehouse solutions have comparable capabilities along with access to deploy any supported or chosen Knowledge Graph Database. The agentic AI options that follow and emerge will need to be addressed from a data sovereignty perspective but may not be cloud provider agnostic.
 
